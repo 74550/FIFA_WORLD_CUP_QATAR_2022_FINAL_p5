@@ -1,0 +1,18 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 106.9%;
+    width: 99.355%;
+  }
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    background-image: url(./immagini/stadio.jpg); 
+    background-position: 0px -120px;
+
+    zoom: 0.87;
+    
+  }
